@@ -31,7 +31,7 @@ Install the attention mechanism discrepancy from
 
 ```bash
 git clone https://github.com/fundamentalvision/Deformable-DETR.git
-cd .Deformable-DETR/models/ops
+cd ./Deformable-DETR/models/ops
 sh ./make.sh
 ```
 
