@@ -39,7 +39,7 @@ sh ./make.sh
 
 ### 3. Download Checkpoint
 
-Download the pre-trained VIIS model checkpoint from [Google Drive](https://drive.google.com/file/d/1ur9uv_eUWYbvJVdKZbrsu50RVWhpX4x5/view?usp=sharing)  
+Download the pre-trained VIIS model checkpoint on msrs dataset from [Google Drive](https://drive.google.com/file/d/1ur9uv_eUWYbvJVdKZbrsu50RVWhpX4x5/view?usp=sharing)  
 and place it in the `./checkpoint/` directory.
 
 ---
